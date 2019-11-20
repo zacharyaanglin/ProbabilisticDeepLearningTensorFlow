@@ -1,0 +1,2 @@
+model_checkpoint_path: "aleatoric_cnn.ckpt"
+all_model_checkpoint_paths: "aleatoric_cnn.ckpt"
