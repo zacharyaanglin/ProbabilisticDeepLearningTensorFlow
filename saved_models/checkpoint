@@ -1,0 +1,2 @@
+model_checkpoint_path: "mnist_fashion.ckpt"
+all_model_checkpoint_paths: "mnist_fashion.ckpt"
